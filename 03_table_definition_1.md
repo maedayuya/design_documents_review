@@ -6,6 +6,7 @@
 　idにはデフォルトでNOT NULL,AUTO INCREMENT,INDEXが
 　付与されている。FKも同様。
 - 配送先テーブルがない。
+- 入荷テーブルがない。
 - created_at,updated_atが全てユーザ登録日時、ユーザ更新日時と
 　なっている。
 - テーブル名は複数系を使う。
