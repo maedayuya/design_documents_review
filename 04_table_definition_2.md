@@ -54,7 +54,15 @@
 
 ## cart items
 - テーブル名、カラム名はスネークケースにする。
+ （cart_item,buy_numにする）
 - products_idではなくproduct_idにする。
+
+## ships
+- 主キーにindexがない
+
+## discs
+- disc_numのdisc_は不要。（テーブル名から判別できる）
+- products_idはproduct_idにする。
 
 # 注意
 * マークダウン形式で記入してください。
