@@ -58,7 +58,7 @@
 - 曲順はどうやって管理するのか。
 
 ## Labels,Artists,Genre
-- 商品IDは不要。
+- product_idは不要。
 
 ## Artists,Genre
 - アーティスト名、ジャンル名は文字列になるため、integer型ではなくstring型を使う。
