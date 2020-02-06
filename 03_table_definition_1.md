@@ -130,3 +130,8 @@
 ## Buy
 - [add]→支払い方法がstringになっており、enumを考慮してない。
 - [add]→送付先住所はあるが、郵便番号と住所がない。
+
+
+# フィードバック2回目
+## label、artist、genre
+- product_idは不要です。
